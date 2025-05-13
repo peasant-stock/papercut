@@ -15,7 +15,7 @@
 Below are guides to install the Papercut software on PC and Mac. This is necessary when an agent joins WRT, or an existing agent gets a new computer.
 
 ::: tip
-Before logging the agent in, you will need to [add them as a new user in the Papercut Admin Portal](#adding-a-new-user-in-the-papercut-mf-admin-portal)
+If this is for a new agent, before logging the agent in, you will need to [add them as a new user in the Papercut Admin Portal](#adding-a-new-user-in-the-papercut-mf-admin-portal)
 :::
 
 **Install Papercut on PC**  
