@@ -96,5 +96,5 @@ The other option to fix this issue is to change the agent’s primary email to t
 The address is filed under the first letter in the “Name” field. Now the process for the agent to scan is:
 1. Log into printer
 2. Tap "Scan"
-3. Tap letter in address book where their name/email is filed
+3. Tap letter in address book where their name/email is filed, then tap name
 4. Set other preferences (b&w/color, 1-sided/2-sided) and tap "Start"
