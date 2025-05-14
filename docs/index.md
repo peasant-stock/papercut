@@ -40,8 +40,6 @@ For agent teams, usually only one agent is billed for the whole team's printing.
 ## Printing from Chromebooks
 Printing from Chromebooks is currently not available. So far there has not been enough of a need to warrant the feature setup. If the need arises, put in a ticket with Sentry to get this feature set up.   
 
-[To print from a Chromebook, add the [Papercut Chrome Extension](https://chromewebstore.google.com/detail/mobility-print/ndakideadaglgpbblmppfonobpdgggin?hl=en) on the agent’s Chromebook. The agent will need to log in the first time they print (remember, password is their printer code x2).]
-
 ## Printing from Phone/Tablet (iOS & Android)
 Agents can also print to Papercut printers from their iOS & Android devices (this includes iPhones, iPads, Android phones, and Android tablets).  
   
