@@ -77,7 +77,7 @@ Just make sure that the **agent’s email is in the printer’s address book** �
 ![User's primary email field, shown in Papercut Admin Portal](./images/primary-email.png)
 ^ Delete the primary email, then scroll down and click "Apply" to save.  
 
-::: info
+::: info Alternate Fix
 The other option to fix this issue is to change the agent’s primary email to their Windermere email, so that the scan is sent from their Windermere email. If they use the “Me” quick destination to send to, it will be sent to their Windermere email, so you need to make sure their Windermere email is forwarding to their gmail/vanity email. You can email emailsupport@windermere.com to check/set this for you, if the agent is unable to get into their Windermere email themselves.
 :::  
 
