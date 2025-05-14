@@ -5,6 +5,6 @@ export default defineConfig({
     base: '/',
     themeConfig: {
         siteTitle: 'WRT Papercut Guide',
-        logo: '/logo.png' // path is relative to public folder
+        logo: '/logo.png' // path is relative to docs/public folder
     }
 })
