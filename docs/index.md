@@ -38,7 +38,7 @@ For agent teams, usually only one agent is billed for the whole team's printing.
 [Video Guide](https://www.loom.com/share/75b239615bb84db7a3eee49b00871056?sid=cd4bfb33-215c-401c-8b77-23b4dadf61b3)
 
 ## Printing from Chromebooks
-**This is currently not set up. Working with Sentry on it.**  
+Printing from Chromebooks is currently not available. So far there has not been enough of a need to warrant the feature setup. If the need arises, put in a ticket with Sentry to get this feature set up.   
 
 [To print from a Chromebook, add the [Papercut Chrome Extension](https://chromewebstore.google.com/detail/mobility-print/ndakideadaglgpbblmppfonobpdgggin?hl=en) on the agent’s Chromebook. The agent will need to log in the first time they print (remember, password is their printer code x2).]
 
