@@ -59,7 +59,7 @@ The manager mode popup must be set up separately on each device you use; if you 
 :::
 
 ## Refunds
-When agents make misprints (for example, settings are incorrect, or color print comes out on the wrong paper), they may ask to be refunded for the misprints. The easiest way to visit the [Papercut Admin Portal](http://10.0.0.200:9191/admin), select “users” on the left, search the user and click on their account. Click on “Job Log” and find the job to be refunded, then click “refund” on the job.
+When agents make misprints (for example, settings are incorrect, or color print comes out on the wrong paper), they may ask to be refunded for the misprints. The easiest way is to visit the [Papercut Admin Portal](http://10.0.0.200:9191/admin), select “users” on the left, search the user and click on their account. Click on “Job Log” and find the job to be refunded, then click “refund” on the job.
 ![User search in Papercut Admin Portal](./images/search-user.png)  
 
 ![User's job log in Papercut Admin Portal](./images/job-log.png)  
